@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Caso1_GestionLibros/1.0.0": {
+        "runtime": {
+          "Caso1_GestionLibros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caso1_GestionLibros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

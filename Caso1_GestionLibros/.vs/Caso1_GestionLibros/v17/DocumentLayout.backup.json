@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libros\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libros\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,6 +29,20 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T04:19:30.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -34,26 +52,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Crear.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libros\\Crear.cshtml",
-              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Crear.cshtml",
-              "RelativeToolTip": "Views\\Libros\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Crear.cshtml",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libro\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Crear.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCcAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T03:56:28.206Z",
+              "WhenOpened": "2025-11-18T04:27:10.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libros\\Index.cshtml",
-              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Index.cshtml",
-              "RelativeToolTip": "Views\\Libros\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Index.cshtml",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-18T03:56:04.307Z",
               "EditorCaption": ""

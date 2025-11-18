@@ -1,0 +1,53 @@
+﻿@model List<Caso1_GestionLibros.Models.Libros>
+
+@{
+
+<h2>Listado de Libros</h2>
+
+<a href="/Libro/Crear" class="btn btn-success mb-3">Agregar Nuevo Libro</a>
+
+@if (TempData["MensajeExito"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["MensajeExito"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+@if (Model.Count > 0)
+{
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Categoría</th>
+                <th>Año</th>
+                <th>Páginas</th>
+                <th>Código</th>
+                <th>Disponible</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var libro in Model)
+            {
+                <tr>
+                    <td>@libro.Titulo</td>
+                    <td>@libro.Autor</td>
+                    <td>@libro.Categoria</td>
+                    <td>@libro.AnioPublicacion</td>
+                    <td>@libro.NumeroPaginas</td>
+                    <td>@libro.CodigoInterno</td>
+                    <td>@(libro.Disponible ? "Sí" : "No")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">No hay libros registrados aún.</div>
+}
+
+
+}

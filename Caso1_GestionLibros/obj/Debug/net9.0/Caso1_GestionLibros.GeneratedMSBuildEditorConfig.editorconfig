@@ -28,12 +28,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/C\#/Practica3_Progra3_CASO1/Caso1_GestionLibros/Views/Libros/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWFyLmNzaHRtbA==
+[E:/C\#/Practica3_Progra3_CASO1/Caso1_GestionLibros/Views/Libro/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/C\#/Practica3_Progra3_CASO1/Caso1_GestionLibros/Views/Libros/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
+[E:/C\#/Practica3_Progra3_CASO1/Caso1_GestionLibros/Views/Libro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/C\#/Practica3_Progra3_CASO1/Caso1_GestionLibros/Views/Shared/Error.cshtml]
