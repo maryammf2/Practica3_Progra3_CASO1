@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\views\\libros\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:views\\libros\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libros\\Crear.cshtml",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Libros\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T03:56:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libros\\Index.cshtml",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T03:56:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LibroController.cs",
               "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Controllers\\LibroController.cs",
               "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
               "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Controllers\\LibroController.cs",
               "RelativeToolTip": "Controllers\\LibroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T03:46:05.771Z",
               "EditorCaption": ""
