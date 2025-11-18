@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\data\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:data\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|e:\\c#\\practica3_progra3_caso1\\caso1_gestionlibros\\models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24D2AD96-40DF-46CE-A1CF-4560241E5778}|Caso1_GestionLibros.csproj|solutionrelative:models\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Data\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\LibroRepository.cs",
+              "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Data\\LibroRepository.cs",
+              "RelativeToolTip": "Data\\LibroRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:37:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Libros.cs",
               "DocumentMoniker": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Models\\Libros.cs",
               "RelativeDocumentMoniker": "Models\\Libros.cs",
               "ToolTip": "E:\\C#\\Practica3_Progra3_CASO1\\Caso1_GestionLibros\\Models\\Libros.cs",
               "RelativeToolTip": "Models\\Libros.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T05:39:28.96Z",
               "EditorCaption": ""
